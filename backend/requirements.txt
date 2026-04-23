@@ -6,3 +6,4 @@ langchain
 langgraph
 groq
 python-dotenv
+langchain-groq
